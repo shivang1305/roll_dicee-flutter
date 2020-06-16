@@ -4,6 +4,8 @@ A new Flutter application.
 
 ## Getting Started
 
+# Roll Dice 🎲
+
 This project is a starting point for a Flutter application.
 
 A few resources to get you started if this is your first Flutter project:
@@ -19,10 +21,5 @@ samples, guidance on mobile development, and a full API reference.
 
 ## Screenshots
 #
-<table>
-  <tr>
-    <td><img src="https://github.com/shivang1305/roll_dicee-flutter/blob/master/Screen1.jpeg"></td>
-    <td><img src="https://github.com/shivang1305/roll_dicee-flutter/blob/master/Screen2.jpeg"></td>
-  </tr>
- </table>
 
+![Finished App](https://github.com/shivang1305/roll_dicee-flutter/blob/master/Recording.gif)
